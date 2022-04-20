@@ -1,2 +1,1 @@
 - [MySQL](MySQL/index.md)
-  - [기본](MySQL/README.md)
