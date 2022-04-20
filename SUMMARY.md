@@ -1,2 +1,3 @@
 - [MySQL](MySQL/index.md)
+  - [MySQL은 왜 테이블에 Primary key가 필요할까?](MySQL/mysql_primary_key.md)
 - [PYTHON](PYTHON/index.md)
